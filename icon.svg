@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512">
+  <rect width="512" height="512" rx="80" fill="#008000"></rect>
+  <text x="50%" y="54%" text-anchor="middle" font-size="110" fill="white" font-family="Arial">
+    PWA
+  </text>
+</svg>
